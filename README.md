@@ -1,19 +1,20 @@
-# 👋 Hello, I'm Augusto (He/Him)
+# 🤖 Hello, I'm Augusto (He/Him).
 
-**`Web Developer`**
+## Welcome to my GitHub
 
-I like doing stuff.
+I am a web developer and mainly work with Angular and DotNet for a private organization.
 
-I currently work for an organization in my city. As personal projects, I have a Pomodoro timer built with Electron and Angular, and I'm starting to build a component library for Angular.
+## Personal projects
 
----
-### ⚙️ Languages and Tools
+I have a [customizable Pomodoro timer](https://github.com/xLonelyPlayer/customodoro) built with Electron and Angular.
+
+I'm also working on a [component library for Angular](https://www.npmjs.com/settings/ngx-aspn-lib/packages) published on npm.
+
+## ⚙️ Languages and Tools
 
 <img src="https://skillicons.dev/icons?i=angular,ts,js,dotnet,git,mysql,docker,html,css,react,nodejs,github,windows" />
 
-
----
-### 📊 Stats
+## 📊 Stats
 
 ![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlonelyplayer&show_icons=true&theme=gruvbox)
 

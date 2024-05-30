@@ -1,10 +1,10 @@
 # 🤖 Hello, I'm Augusto (He/Him).
 
-## Welcome to my GitHub
+### Welcome to my GitHub
 
 I am a web developer and mainly work with Angular and DotNet for a private organization.
 
-## Personal projects
+### Personal projects
 
 I have a [customizable Pomodoro timer](https://github.com/xLonelyPlayer/customodoro) built with Electron and Angular.
 

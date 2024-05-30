@@ -12,7 +12,7 @@ I'm also working on a [component library for Angular](https://www.npmjs.com/sett
 
 ## ⚙️ Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,dotnet,git,mysql,docker,html,css,react,nodejs,github,windows" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,dotnet,npm,electron,git,mysql,docker,html,css,react,nodejs,github,windows" />
 
 ## 📊 Stats
 

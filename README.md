@@ -4,6 +4,8 @@
 
 I like coding.
 
+I currently work for an organization in my city. As personal projects, I have a Pomodoro timer built with Electron and Angular, and I'm starting to build a component library for Angular.
+
 ---
 ### 🧰 Languages and Tools
 

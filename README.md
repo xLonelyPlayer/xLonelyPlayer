@@ -22,4 +22,9 @@ I currently work for an organization in my city. As personal projects, I have a 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+---
+### 📊 Stats
+
+![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlonelyplayer&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->

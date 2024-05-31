@@ -8,7 +8,7 @@ I am a web developer and mainly work with Angular and DotNet for a private organ
 
 I have a [customizable Pomodoro timer](https://github.com/xLonelyPlayer/customodoro) built with Electron and Angular.
 
-I'm also working on a [component library for Angular](https://www.npmjs.com/settings/ngx-aspn-lib/packages) published on npm.
+I'm also working on a [component library for Angular](https://www.npmjs.com/search?q=%40ngx-aspn-lib) published on npm.
 
 ## ⚙️ Languages and Tools
 
